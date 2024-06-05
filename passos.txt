@@ -1,0 +1,2 @@
+git config --global user.name Arthur Camargo
+git config --global user.email arthur.barrabonita@gmail.com
